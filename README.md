@@ -93,5 +93,9 @@ Membuat repository server
 * lalu klik tombol Create repository
 
 
-![nama](gambar/nama.png)
+![nama](gamabar/nama.png)
 
+## Menambahkan Remote Repository
+
+* Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.
+* Untuk menambahkan remote repository server, gunakan perintah *git remote add origin [url]*

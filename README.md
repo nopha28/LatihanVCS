@@ -65,3 +65,9 @@ $ cd latihan1``
 * File *README.md* berhasil dibuat.
 
 ![menambahkan-data](gambar/folder.png)
+
+### `Commit` (Menyimpan perubahan ke database)
+
+* Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”
+`$ git commit -m “File pertama saya”`
+* Perubahan berhasil disimpan.

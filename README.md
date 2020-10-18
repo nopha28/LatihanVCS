@@ -56,3 +56,10 @@ $ cd latihan1``
 `$ git init`
 * Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .*git*
 * Pada direktori tersebut, semua perubahan pada `working directory` akan disimpan.
+
+### Menambahkan File baru pada repository
+
+* Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)
+* disini kita akan coba buat satu file bernama README.md (text file)
+`$ echo “# Latihan 1” >> README.md`
+* File *README.md* berhasil dibuat.

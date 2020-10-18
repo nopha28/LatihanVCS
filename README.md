@@ -17,4 +17,4 @@ KELAS : TI.20.A.1
 * Selamat, Git sudah terinstal di Windows. Untuk mencobanya,silahkan buka *CMD* atau *PowerShell*, kemudian ketik perintah
 
 ``git --version``
-! [git-version](gambar/git-version.PNG)
+![git-version](gambar/git-version.PNG)

@@ -93,7 +93,7 @@ Membuat repository server
 * lalu klik tombol Create repository
 
 
-![nama](gamabar/nama.png)
+![nama](gambar/nama.png)
 
 ## Menambahkan Remote Repository
 

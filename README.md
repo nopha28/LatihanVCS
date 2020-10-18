@@ -114,3 +114,8 @@ Melihat hasilnya pada server repository
 * Maka perubahan akan terlihat pada laman tersebut.
 
 ![hasil](gambar/hasil.png)
+
+## Clone Repository
+
+* Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
+* Untuk melakukan cloning, gunakan perintah

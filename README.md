@@ -85,3 +85,10 @@ Membuat repository server
 * Dari menu (icon +) klik New Repository
 
 ![ripositori](gambar/repostori.png)
+
+
+Membuat repository server
+
+* Isi nama repositorynya, misal: labpy1.
+* lalu klik tombol Create repository
+

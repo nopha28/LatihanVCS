@@ -50,3 +50,9 @@ $ cd latihan1``
 * Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah *cd* ``(change directory)``
 * direktory aktif menjadi: **d:\labs_pemrograman1\latihan1**
 
+### Membuat Reposiory Local
+
+* Jalankan perintah *git init*, untuk membuat repository local.
+`$ git init`
+* Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .*git*
+* Pada direktori tersebut, semua perubahan pada `working directory` akan disimpan.

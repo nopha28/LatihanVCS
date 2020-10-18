@@ -99,3 +99,9 @@ Membuat repository server
 
 * Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.
 * Untuk menambahkan remote repository server, gunakan perintah *git remote add origin [url]*
+
+Push (Mengirim perubahan ke server)
+
+* Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
+`$ git push -u origin master`
+* Perintah ini akan meminta memasukkan username dan password pada akun github.com

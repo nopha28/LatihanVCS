@@ -112,3 +112,5 @@ Melihat hasilnya pada server repository
 
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
+
+![hasil](gambar/hasil.png)

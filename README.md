@@ -84,4 +84,4 @@ Membuat repository server
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
 
-![ripositori](gambar/ripositori.png)
+![ripositori](gambar/repostori.png)

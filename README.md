@@ -16,4 +16,4 @@ KELAS : TI.20.A.1
 * Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 * Selamat, Git sudah terinstal di Windows. Untuk mencobanya,silahkan buka *CMD* atau *PowerShell*, kemudian ketik perintah <i>git version</i>
 
-![gambar git scm](gambar/gitversion.PNG)
+![gambar git scm](gambar/gitversion.png)

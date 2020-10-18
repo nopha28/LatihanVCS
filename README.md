@@ -76,7 +76,12 @@ $ cd latihan1``
 
 Membuat repository server
 
+*
+Membuat repository server
+
 * Server reopsitory yang akan kita gunakan adalah [click here](http://github.com)
 * Anda harus membuat akun terlebih dahulu.
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
+
+![ripositori](gambar/ripositori.png)

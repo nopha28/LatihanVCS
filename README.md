@@ -105,3 +105,5 @@ Push (Mengirim perubahan ke server)
 * Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
 `$ git push -u origin master`
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
+
+![gitpush](gambar/gitpush.png)

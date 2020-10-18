@@ -39,3 +39,14 @@ KELAS : TI.20.A.1
 * `git clone [url]`, perintah untuk membuat working directory yang diambil dari repositry sever.
 * `git remote add origin [url]`, perintah untuk menambahkan remote server/reopsitory server pada local repositry ``(working directory)``
 * `git pull`, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
+
+### Membuat Reposiory Local
+
+* Buka direktory aktif, misal: *d:\labs_pemrograman1* (buka menggunakan Windows Explorer)
+* klik kanan pada direktory aktif tersebut, dan pilih menu *Git Bash*, sehingga muncul git bash commad
+* Buat direktory project praktikum pertama dengan nama *latihan1*
+``$ mkdir latihan1
+$ cd latihan1``
+* Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah *cd* ``(change directory)``
+* direktory aktif menjadi: **d:\labs_pemrograman1\latihan1**
+

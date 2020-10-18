@@ -107,3 +107,8 @@ Push (Mengirim perubahan ke server)
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
 ![gitpush](gambar/gitpush.png)
+
+Melihat hasilnya pada server repository
+
+* Buka laman github.com, arahkan pada repositorinya.
+* Maka perubahan akan terlihat pada laman tersebut.
